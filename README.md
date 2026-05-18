@@ -44,6 +44,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omurbek000)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
+#![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default)
+##![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=default)
+###![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=default)
+####![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=default)
+#####![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=default&utcOffset=8)
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Omurbek000&theme=github-dark-blue)](https://git.io/streak-stats)
