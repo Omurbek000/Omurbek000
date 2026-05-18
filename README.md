@@ -81,13 +81,6 @@
 
 ---
 
-## 🏆 GitHub Трофеи
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Omurbek000&theme=darkhub&column=7&margin-w=8&title_color=FFD700&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
@@ -106,8 +99,7 @@
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-dseba436%40gmail.com-0d0d0d?style=for-the-badge&logo=gmail&logoColor=FFD700&labelColor=0d0d0d)](mailto:dseba436@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-@A__simf-0d0d0d?style=for-the-badge&logo=telegram&logoColor=FFD700&labelColor=0d0d0d)](https://t.me/A_simf)
-[![Instagram](https://img.shields.io/badge/Instagram-po__prostomu001-0d0d0d?style=for-the-badge&logo=instagram&logoColor=FFD700&labelColor=0d0d0d)](https://instagram.com/po_prostomu001)
+
 
 </div>
 
