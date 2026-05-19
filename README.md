@@ -82,17 +82,60 @@
 ---
 
 
+## 📌 Закреплённые проекты
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏠 Airbnb Clone
+> ⚠️ Учебный проект — создан в образовательных целях
+
+Клон платформы для аренды жилья с объявлениями, бронированиями и профилями пользователей.
+
+**Стек:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-FF1709?style=flat-square&logo=django&logoColor=white)
+
+**Функции:**
+- 🏡 Объявления жилья
+- 📅 Бронирование
+- 👤 Профили пользователей
+
+[![GitHub](https://img.shields.io/badge/Смотреть_на_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Omurbek000/Airbnb)
+
+</td>
+<td width="50%" valign="top">
+
+### 💼 FreelanceHub API
+> ⚠️ Учебный проект — создан в образовательных целях
+
+Backend REST API для фриланс-биржи. Клиенты создают проекты, фрилансеры подают предложения.
+
+**Стек:**
+
+![Python](https://img.shields.io/badge/Python_3.12-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django_5.2-092E20?style=flat-square&logo=django&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+
+**Функции:**
+- 🔐 JWT + OAuth (Google, GitHub)
+- 👥 Роли: Client / Freelancer / Admin
+- 🌍 Мультиязычная админка (RU/EN/KG)
+- 📄 Swagger документация
+
+[![GitHub](https://img.shields.io/badge/Смотреть_на_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Omurbek000/freelancehub-api)
+
+</td>
+</tr>
+</table>
+
 ---
 
-## 📌 Лучший проект
 
-<div align="center">
-
-[![Airbnb](https://github-readme-stats.vercel.app/api/pin/?username=Omurbek000&repo=Airbnb&theme=midnight-purple&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=0d0d0d&border_color=6a0dad)](https://github.com/Omurbek000/Airbnb)
-
-</div>
-
----
 
 ## 🌐 Связаться со мной
 
