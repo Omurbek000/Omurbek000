@@ -86,9 +86,13 @@ Production-ready API для автоперевода и озвучки. 88 → 1
 
 ## 🎯 Сейчас в фокусе
 
+<img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
 * Этап 4 — `Service` как **AI Subtitle SaaS** (`Stripe` + React фронт из `auto_project` `useAuth`/`usePagination`)
 * Докер: `Postgres 16` + `Redis 7` + `MinIO` (`docker compose up -d`) — уже в `Service`, переношу в `delivery`/`auto_project`
 * Тесты как контракт: `Service 37/37` • `delivery 26` • `auto_project` 60+ endpoints
+
+<br clear="right"/>
 
 ---
 
@@ -104,6 +108,14 @@ Production-ready API для автоперевода и озвучки. 88 → 1
 <div align="center">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Omurbek000&theme=midnight_purple)
+
+</div>
+
+---
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Omurbek000/Omurbek000/output/github-contribution-grid-snake.svg)
 
 </div>
 
