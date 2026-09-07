@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:6a0dad,100:ffd700&height=200&section=header&text=Aziat%20Omurbek&fontSize=50&fontColor=ffd700&fontAlignY=38&desc=Python%20Developer%20%7C%20Student%20%F0%9F%8E%93&descAlignY=58&descColor=d4af37&animation=fadeIn" width="100%"/>
 
@@ -10,24 +10,24 @@
 
 <img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-## ЁЯСитАНЁЯТ╗ ╨Ю ╤Б╨╡╨▒╨╡
+## 👨‍💻 О себе
 
-- ЁЯОУ **╨б╤В╤Г╨┤╨╡╨╜╤В** тАФ ╨╕╨╖╤Г╤З╨░╤О ╨▓╨╡╨▒-╤А╨░╨╖╤А╨░╨▒╨╛╤В╨║╤Г ╤Б ╨╜╤Г╨╗╤П
-- ЁЯФн ╨а╨░╨▒╨╛╤В╨░╤О ╨╜╨░╨┤ ╨┐╤А╨╛╨╡╨║╤В╨░╨╝╨╕ ╨╜╨░ **Python ╨╕ Django**
-- ЁЯМ▒ ╨б╨╡╨╣╤З╨░╤Б ╨┐╤А╨╛╨║╨░╤З╨╕╨▓╨░╤О: **Django REST Framework**
-- ЁЯПЖ ╨г╨╢╨╡ **34 ╤А╨╡╨┐╨╛╨╖╨╕╤В╨╛╤А╨╕╤П** тАФ ╨╕ ╤Н╤В╨╛ ╤В╨╛╨╗╤М╨║╨╛ ╨╜╨░╤З╨░╨╗╨╛!
-- ЁЯУН **╨Ъ╤Л╤А╨│╤Л╨╖╤Б╤В╨░╨╜** ЁЯЗ░ЁЯЗм
+- 🎓 **Студент** — изучаю веб-разработку с нуля
+- 🔭 Работаю над проектами на **Python и Django**
+- 🌱 Сейчас прокачиваю: **Django REST Framework**
+- 🏆 Уже **34 репозитория** — и это только начало!
+- 📍 **Кыргызстан** 🇰🇬
 
 
 <br/>
 
-> ### *"Every expert was once a beginner."* ЁЯМЯ
+> ### *"Every expert was once a beginner."* 🌟
 
 <br clear="right"/>
 
 ---
 
-## ЁЯЫа╨в╨╡╤Е╨╜╨╛╨╗╨╛╨│╨╕╨╕
+## 🛠Технологии
 
 <div align="center">
 
@@ -44,7 +44,7 @@
 
 ---
 
-## ЁЯУК GitHub ╨б╤В╨░╤В╨╕╤Б╤В╨╕╨║╨░
+## 📊 GitHub Статистика
 
 <div align="center">
 
@@ -82,52 +82,52 @@
 ---
 
 
-## ЁЯУМ ╨Ч╨░╨║╤А╨╡╨┐╨╗╤С╨╜╨╜╤Л╨╡ ╨┐╤А╨╛╨╡╨║╤В╤Л
+## 📌 Закреплённые проекты
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ЁЯПа Airbnb Clone
-> тЪая╕П ╨г╤З╨╡╨▒╨╜╤Л╨╣ ╨┐╤А╨╛╨╡╨║╤В тАФ ╤Б╨╛╨╖╨┤╨░╨╜ ╨▓ ╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╨╡╨╗╤М╨╜╤Л╤Е ╤Ж╨╡╨╗╤П╤Е
+### 🏠 Airbnb Clone
+> ⚠️ Учебный проект — создан в образовательных целях
 
-╨Ъ╨╗╨╛╨╜ ╨┐╨╗╨░╤В╤Д╨╛╤А╨╝╤Л ╨┤╨╗╤П ╨░╤А╨╡╨╜╨┤╤Л ╨╢╨╕╨╗╤М╤П ╤Б ╨╛╨▒╤К╤П╨▓╨╗╨╡╨╜╨╕╤П╨╝╨╕, ╨▒╤А╨╛╨╜╨╕╤А╨╛╨▓╨░╨╜╨╕╤П╨╝╨╕ ╨╕ ╨┐╤А╨╛╤Д╨╕╨╗╤П╨╝╨╕ ╨┐╨╛╨╗╤М╨╖╨╛╨▓╨░╤В╨╡╨╗╨╡╨╣.
+Клон платформы для аренды жилья с объявлениями, бронированиями и профилями пользователей.
 
-**╨б╤В╨╡╨║:**
+**Стек:**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/DRF-FF1709?style=flat-square&logo=django&logoColor=white)
 
-**╨д╤Г╨╜╨║╤Ж╨╕╨╕:**
-- ЁЯПб ╨Ю╨▒╤К╤П╨▓╨╗╨╡╨╜╨╕╤П ╨╢╨╕╨╗╤М╤П
-- ЁЯУЕ ╨С╤А╨╛╨╜╨╕╤А╨╛╨▓╨░╨╜╨╕╨╡
-- ЁЯСд ╨Я╤А╨╛╤Д╨╕╨╗╨╕ ╨┐╨╛╨╗╤М╨╖╨╛╨▓╨░╤В╨╡╨╗╨╡╨╣
+**Функции:**
+- 🏡 Объявления жилья
+- 📅 Бронирование
+- 👤 Профили пользователей
 
-[![GitHub](https://img.shields.io/badge/╨б╨╝╨╛╤В╤А╨╡╤В╤М_╨╜╨░_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Omurbek000/Airbnb)
+[![GitHub](https://img.shields.io/badge/Смотреть_на_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Omurbek000/Airbnb)
 
 </td>
 <td width="50%" valign="top">
 
-### ЁЯТ╝ FreelanceHub API
-> тЪая╕П ╨г╤З╨╡╨▒╨╜╤Л╨╣ ╨┐╤А╨╛╨╡╨║╤В тАФ ╤Б╨╛╨╖╨┤╨░╨╜ ╨▓ ╨╛╨▒╤А╨░╨╖╨╛╨▓╨░╤В╨╡╨╗╤М╨╜╤Л╤Е ╤Ж╨╡╨╗╤П╤Е
+### 💼 FreelanceHub API
+> ⚠️ Учебный проект — создан в образовательных целях
 
-Backend REST API ╨┤╨╗╤П ╤Д╤А╨╕╨╗╨░╨╜╤Б-╨▒╨╕╤А╨╢╨╕. ╨Ъ╨╗╨╕╨╡╨╜╤В╤Л ╤Б╨╛╨╖╨┤╨░╤О╤В ╨┐╤А╨╛╨╡╨║╤В╤Л, ╤Д╤А╨╕╨╗╨░╨╜╤Б╨╡╤А╤Л ╨┐╨╛╨┤╨░╤О╤В ╨┐╤А╨╡╨┤╨╗╨╛╨╢╨╡╨╜╨╕╤П.
+Backend REST API для фриланс-биржи. Клиенты создают проекты, фрилансеры подают предложения.
 
-**╨б╤В╨╡╨║:**
+**Стек:**
 
 ![Python](https://img.shields.io/badge/Python_3.12-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django_5.2-092E20?style=flat-square&logo=django&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 
-**╨д╤Г╨╜╨║╤Ж╨╕╨╕:**
-- ЁЯФР JWT + OAuth (Google, GitHub)
-- ЁЯСе ╨а╨╛╨╗╨╕: Client / Freelancer / Admin
-- ЁЯМН ╨Ь╤Г╨╗╤М╤В╨╕╤П╨╖╤Л╤З╨╜╨░╤П ╨░╨┤╨╝╨╕╨╜╨║╨░ (RU/EN/KG)
-- ЁЯУД Swagger ╨┤╨╛╨║╤Г╨╝╨╡╨╜╤В╨░╤Ж╨╕╤П
+**Функции:**
+- 🔐 JWT + OAuth (Google, GitHub)
+- 👥 Роли: Client / Freelancer / Admin
+- 🌍 Мультиязычная админка (RU/EN/KG)
+- 📄 Swagger документация
 
-[![GitHub](https://img.shields.io/badge/╨б╨╝╨╛╤В╤А╨╡╤В╤М_╨╜╨░_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Omurbek000/freelancehub-api)
+[![GitHub](https://img.shields.io/badge/Смотреть_на_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Omurbek000/freelancehub-api)
 
 </td>
 </tr>
@@ -137,7 +137,7 @@ Backend REST API ╨┤╨╗╤П ╤Д╤А╨╕╨╗╨░╨╜╤Б-╨�
 
 
 
-## ЁЯМР ╨б╨▓╤П╨╖╨░╤В╤М╤Б╤П ╤Б╨╛ ╨╝╨╜╨╛╨╣
+## 🌐 Связаться со мной
 
 <div align="center">
 
