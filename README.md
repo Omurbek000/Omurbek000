@@ -31,7 +31,7 @@
 ║   AI          Whisper / NLLB / TTS                           ║
 ║   INFRA       Docker / Linux                                 ║
 ║                                                              ║
-║   STATUS      ● BUILDING                                     ║
+║   STATUS      ● BUILDING  •  47 repos  •  Bishkek 🇰🇬          ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -40,9 +40,7 @@
 
 # `> whoami`
 
-I'm a **Backend / AI Engineer** focused on building real-world applications with Python.
-
-I enjoy working at the intersection of:
+I'm a **Backend / AI Engineer** building real-world systems — from `delivery` and `car rental` marketplaces to **AI dubbing**.
 
 ```text
         BACKEND
@@ -64,7 +62,9 @@ I enjoy working at the intersection of:
         AI / ML
 ```
 
-My main focus is **Django, REST APIs, PostgreSQL, Redis, Celery and AI-powered systems**.
+**Focus:** `Django 5.2` • `DRF + JWT` • `PostgreSQL + Redis + Celery` • `Whisper / NLLB / TTS` • `Docker` — **26-37 tests • production ready**
+
+[📍 Bishkek](https://github.com/Omurbek000) • [📧 dseba436@gmail.com](mailto:dseba436@gmail.com) • [🚀 Service](https://github.com/Omurbek000/Service) • [🚗 AVTO Demo](https://omurbek000.github.io/auto_project/presentation_menu.html)
 
 ---
 
@@ -83,194 +83,127 @@ My main focus is **Django, REST APIs, PostgreSQL, Redis, Celery and AI-powered s
 <br>
 
 ```text
-BACKEND       ████████████████████  Python / Django / DRF
+BACKEND       ████████████████████  Python / Django / DRF + JWT
 DATABASE      ██████████████████░░  PostgreSQL / Redis
 ASYNC         █████████████████░░░  Celery
-AI            ████████████████░░░░  Whisper / NLLB / TTS
+AI            ████████████████░░░░  Whisper / NLLB / TTS / FFmpeg
 INFRA         ███████████████░░░░░  Docker / Linux
-FRONTEND      ████████████░░░░░░░░  React / TypeScript
-TESTING       █████████████░░░░░░░  Pytest / Django Tests
+FRONTEND      ████████████░░░░░░░░  React 18 / TypeScript / Vite
+TESTING       █████████████░░░░░░░  Pytest / Django Tests  26-37
 ```
 
 ---
 
 # `> featured_projects`
 
-## `01 // AutoDub`
+## `01 // AutoDub — AI VIDEO DUBBING`
 
 <div align="center">
 
-### 🤖 AI VIDEO DUBBING PLATFORM
+### 🤖 Service — флагман
 
-`WHISPER` `NLLB` `TTS` `CELERY` `REDIS` `FFMPEG`
+`WHISPER` `NLLB` `TTS` `CELERY` `REDIS` `FFMPEG` `37 Tests`
+
+> Загружаешь видео → `en` → выбираешь `ru` → забираешь `.srt` + `dubbed.mp4` — `Whisper → pyannote → NLLB → edge-tts/CosyVoice → atempo → mux`
 
 </div>
-
-> An AI-powered system for automatic video translation and dubbing.
-
-### `pipeline`
 
 ```text
 ┌─────────┐
 │  VIDEO  │
 └────┬────┘
-     │
      ▼
 ┌──────────────┐
-│ AUDIO        │
-│ EXTRACTION   │
+│   WHISPER    │  Speech→Text  (faster-whisper base)
 └──────┬───────┘
-       │
        ▼
 ┌──────────────┐
-│   WHISPER    │
-│ Speech→Text  │
+│     NLLB     │  Translation  (nllb-200)
 └──────┬───────┘
-       │
        ▼
 ┌──────────────┐
-│     NLLB     │
-│ Translation   │
+│     TTS      │  edge-tts / CosyVoice3
 └──────┬───────┘
-       │
        ▼
 ┌──────────────┐
-│     TTS      │
-│ Text→Speech  │
+│    FFMPEG    │  atempo + mux
 └──────┬───────┘
-       │
-       ▼
-┌──────────────┐
-│    FFMPEG    │
-│ Media Engine │
-└──────┬───────┘
-       │
        ▼
 ┌──────────────┐
 │ DUBBED VIDEO │
 └──────────────┘
 ```
 
-### `engineering`
-
-* asynchronous processing
-* Celery workers
-* Redis queues
-* AI model integration
-* speech recognition
-* machine translation
-* text-to-speech
-* FFmpeg media processing
-* REST API
-* automated testing
-
 <div align="center">
 
-<a href="https://github.com/Omurbek000">
-<img src="https://img.shields.io/badge/OPEN_REPOSITORY-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[![Service](https://img.shields.io/badge/Service-AutoDub_AI-7C3AED?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Omurbek000/Service) [![Tests](https://img.shields.io/badge/tests-37%2F37-10B981?style=flat-square)](https://github.com/Omurbek000/Service)
+
+[🎬 Presentation](https://github.com/Omurbek000/Service/blob/main/presentation.html) • [📋 PLAN](https://github.com/Omurbek000/Service/blob/main/PLAN.md) • [GitHub](https://github.com/Omurbek000/Service) • `GET /health/`
 
 </div>
 
 ---
 
-## `02 // AVTO`
+## `02 // AVTO — CAR RENTAL MARKETPLACE`
 
 <div align="center">
 
-### 🚗 CAR RENTAL MARKETPLACE
+### 🚗 60+ endpoints • каталог → бронь → чат → KPI
 
-`DJANGO` `DRF` `POSTGRESQL` `REACT` `TYPESCRIPT`
+`DJANGO` `DRF` `POSTGRESQL` `REACT` `TYPESCRIPT` `VITE`
 
 </div>
 
 ```text
-                    ┌─────────────┐
-                    │   CLIENT    │
-                    │ React / TS  │
-                    └──────┬──────┘
-                           │
-                           ▼
-                    ┌─────────────┐
-                    │  REST API   │
-                    │    DRF      │
-                    └──────┬──────┘
-                           │
-                ┌──────────┴──────────┐
-                ▼                     ▼
-         ┌─────────────┐       ┌─────────────┐
-         │   BOOKING   │       │    CHAT     │
-         └──────┬──────┘       └─────────────┘
-                │
-                ▼
-         ┌─────────────┐
-         │ PostgreSQL  │
-         └─────────────┘
+              CLIENT (React 18 / TS / Vite)
+                       │
+                       ▼
+                    REST API (DRF + JWT)
+                       │
+           ┌───────────┴───────────┐
+           ▼                       ▼
+      BOOKING (защита              CHAT
+      от гонки)               по аренде
+           │
+           ▼
+      PostgreSQL + KPI Dashboard
 ```
 
-### `features`
-
-`🚘 Cars` · `🔎 Search` · `📅 Booking`
-
-`🛡️ Availability` · `💬 Chat` · `⭐ Reviews`
-
-`📊 KPI Dashboard` · `🔐 Authentication`
+`🚘 Cars` · `🔎 Search + Filters` · `📅 Booking + Calendar` · `🛡️ Availability` · `💬 Chat` · `⭐ Reviews` · `📊 KPI`
 
 <div align="center">
 
-<a href="https://github.com/Omurbek000">
-<img src="https://img.shields.io/badge/OPEN_REPOSITORY-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[🎬 Demo](https://omurbek000.github.io/auto_project/presentation_menu.html) • [GitHub](https://github.com/Omurbek000/auto_project)
 
 </div>
 
 ---
 
-## `03 // Onigiri`
+## `03 // Onigiri — FOOD DELIVERY API`
 
 <div align="center">
 
-### 🍣 FOOD DELIVERY API
+### 🍣 22 endpoints • 26 tests • один ресторан, 3 клика до заказа
 
 `PYTHON` `DJANGO` `DRF` `JWT` `POSTGRESQL`
 
 </div>
 
 ```text
-USER
- │
- ▼
-AUTH ───────► JWT
- │
- ▼
-MENU
- │
- ▼
-CART
- │
- ▼
-ORDER
- │
- ▼
-ORDER ITEMS
- │
- ▼
-DELIVERY
+USER → AUTH (JWT) → MENU (Category→Dish) → CART → ORDER (Promo → OrderItem) → DELIVERY (created→delivered)
 ```
 
-### `features`
+> `Category → Dish → Favorite → Promo → Order → OrderItem` — `django-filter` + `PageNumberPagination 10` + `IsOwnerOrAdmin`
 
-* JWT authentication
-* authorization
-* menu management
-* favorites
-* addresses
-* promotions
-* cart
-* orders
-* order status workflow
-* filtering
-* automated tests
+<div align="center">
+
+[🎨 UI mockup](https://github.com/Omurbek000/delivery/blob/main/ui-mockup-main.html) • [GitHub](https://github.com/Omurbek000/delivery) • [Swagger](https://github.com/Omurbek000/delivery#api--22-эндпоинта)
+
+</div>
+
+---
+
+> Ещё 3 TOP в пине: [`IT-online`](https://github.com/Omurbek000/IT-online) • [`freelancehub-api`](https://github.com/Omurbek000/freelancehub-api) • [`Etno_Practic`](https://github.com/Omurbek000/Etno_Practic) — все `MIT` + `topics` (как у топов 2026)
 
 ---
 
@@ -282,49 +215,14 @@ DELIVERY
 
 </div>
 
-<br>
-
-I’m particularly interested in turning AI models into **usable backend services**.
+I turn AI models into **usable backend services**:
 
 ```text
-             ┌───────────────┐
-             │   AI MODEL    │
-             └───────┬───────┘
-                     │
-                     ▼
-             ┌───────────────┐
-             │    WORKER     │
-             │    Celery     │
-             └───────┬───────┘
-                     │
-                     ▼
-             ┌───────────────┐
-             │    REDIS      │
-             │    QUEUE      │
-             └───────┬───────┘
-                     │
-                     ▼
-             ┌───────────────┐
-             │   DJANGO API  │
-             └───────┬───────┘
-                     │
-                     ▼
-             ┌───────────────┐
-             │    CLIENT     │
-             └───────────────┘
+  AI MODEL → WORKER (Celery) → REDIS QUEUE → DJANGO API → CLIENT
+  Whisper → NLLB → TTS → FFmpeg → Service API
 ```
 
-### `ai_toolbox`
-
-```text
-Speech Recognition     → Whisper
-Translation            → NLLB
-Text-to-Speech         → TTS
-Deep Learning          → PyTorch
-Media Processing       → FFmpeg
-Task Processing        → Celery
-Queue                  → Redis
-```
+`Whisper → NLLB → TTS → PyTorch → FFmpeg → Celery → Redis`
 
 ---
 
@@ -332,25 +230,12 @@ Queue                  → Redis
 
 ```text
 ┌─────────────────────────────────────────────┐
-│                                             │
 │  01  CLEAN ARCHITECTURE                     │
-│      Keep business logic understandable.    │
-│                                             │
-│  02  ASYNC PROCESSING                       │
-│      Don't block HTTP with heavy jobs.      │
-│                                             │
-│  03  DATABASE FIRST                          │
-│      Design reliable data relationships.    │
-│                                             │
-│  04  API DESIGN                             │
-│      Predictable endpoints & validation.    │
-│                                             │
-│  05  TESTING                                │
-│      Code should be safe to change.         │
-│                                             │
-│  06  PRODUCTION MINDSET                     │
-│      Reliability > just making it work.    │
-│                                             │
+│  02  ASYNC PROCESSING  (Celery + Redis)     │
+│  03  DATABASE FIRST    (Postgres + FK)      │
+│  04  API DESIGN        (DRF + JWT)          │
+│  05  TESTING           (26-37 tests)        │
+│  06  PRODUCTION MINDSET (Docker + health)   │
 └─────────────────────────────────────────────┘
 ```
 
@@ -389,35 +274,7 @@ Queue                  → Redis
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Omurbek000&theme=tokyonight&hide_border=true&background=050505&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="70%"/>
-
-</div>
-
----
-
-# `> currently_learning`
-
-```text
-[████████████████████░░] System Design
-[███████████████████░░░] Advanced Django
-[██████████████████░░░░] PostgreSQL Optimization
-[█████████████████░░░░░] Distributed Systems
-[████████████████░░░░░░] Docker / Deployment
-[███████████████░░░░░░░] AI Application Architecture
-```
-
----
-
-# `> mission`
-
-<div align="center">
-
-### BUILD → BREAK → LEARN → IMPROVE → REPEAT
-
-<br>
-
-**Building reliable backend systems
-with AI at the core.**
+![Snake animation](https://raw.githubusercontent.com/Omurbek000/Omurbek000/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -438,10 +295,6 @@ with AI at the core.**
 <br><br>
 
 ```text
-> system.shutdown()
-
-just kidding...
-
 > keep_building()
 ```
 
