@@ -71,7 +71,7 @@ Production-ready API для автоперевода и озвучки. 88 → 1
 
 ---
 
-## 🛠️ Stack — группами, как у топов 2026
+## 🛠️ Stack
 
 <div align="center">
 
