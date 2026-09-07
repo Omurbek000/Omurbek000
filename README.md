@@ -1,113 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:6a0dad,100:ffd700&height=200&section=header&text=Aziat%20Omurbek&fontSize=50&fontColor=ffd700&fontAlignY=38&desc=Backend%20%E2%80%A2%20AI%20%E2%80%A2%20Django%20%E2%80%A2%2047%20repos&descAlignY=58&descColor=d4af37&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:16112b,75:302b63,100:050505&height=230&section=header&text=AZIAT%20OMURBEK&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BACKEND%20%E2%80%A2%20AI%20ENGINEER&descAlignY=60&descSize=20" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=650&lines=Backend+%E2%80%A2+AI+dubbing+%28Whisper+%E2%86%92+NLLB+%E2%86%92+TTS%29;Django+5.2+%2B+DRF+%2B+JWT+%2B+Celery+%2B+React+18;47+repos+%E2%80%A2+26-37+tests+%E2%80%A2+production+ready;Bishkek+%F0%9F%87%B0%F0%9F%87%AC+%E2%80%A2+Building+AI+SaaS)](https://git.io/typing-svg)
+<br>
 
-**Backend building AI dubbing & delivery APIs — Django 5.2 + React 18 + JWT • 26-37 tests • production ready**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2200&pause=700&color=A78BFA&center=true&vCenter=true&width=750&lines=%3E+initializing+backend+system...;%3E+loading+AI+pipeline...;%3E+connecting+PostgreSQL...;%3E+starting+Celery+workers...;%3E+SYSTEM+ONLINE+%E2%9C%93" />
 
-[📍 Bishkek, Kyrgyzstan](https://github.com/Omurbek000) • [📧 dseba436@gmail.com](mailto:dseba436@gmail.com) • [🚀 Service — AI dubbing](https://github.com/Omurbek000/Service) • [🚗 AVTO — Car Rental](https://omurbek000.github.io/auto_project/presentation_menu.html)
+<br><br>
 
-</div>
-
----
-
-## 🚀 Флагман — AutoDub / Service
-
-**Загружаешь видео → получаешь `en` → выбираешь `ru` → забираешь `.srt` + `dubbed.mp4`**
-
-`Whisper` → `pyannote` → `NLLB` → `edge-tts / CosyVoice` → `atempo` → `mux`
-
-[![Service](https://img.shields.io/badge/Service-AutoDub_AI-7c3aed?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Omurbek000/Service) [![Tests](https://img.shields.io/badge/tests-37%2F37-10B981?style=flat-square)](https://github.com/Omurbek000/Service) [![Swagger](https://img.shields.io/badge/docs-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)](https://github.com/Omurbek000/Service)
-
-[🎬 Presentation](https://github.com/Omurbek000/Service/blob/main/presentation.html) • [📋 PLAN](https://github.com/Omurbek000/Service/blob/main/PLAN.md) • `GET /health/` `GET /languages/` `GET /voices/`
-
----
-
-## 📌 Featured — 3 проекта, каждый с демо
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🎬 Service — AI dubbing
-Production-ready API для автоперевода и озвучки. 88 → 165 файлов, `Whisper base` + `NLLB-200` + `CosyVoice3`.
-
-**Стек:** `Django 6.1 / DRF 3.18 / Celery / Redis / Whisper / NLLB`
-
-`POST /videos/` → `extract_audio` → `Whisper` → `NLLB` → `TTS`
-
-[🎬 Demo](https://github.com/Omurbek000/Service/blob/main/presentation.html) • [GitHub](https://github.com/Omurbek000/Service)
-
-</td>
-<td width="33%" valign="top">
-
-### 🚗 AVTO — Car Rental
-Маркетплейс аренды: каталог с фильтрами, календарь занятости, защита от гонки, чат, отзывы, KPI дашборд.
-
-**Стек:** `Django 5.2 / DRF / React 18 / TS / Vite / TanStack Query`
-
-`Каталог → Календарь → Бронь → Чат → Отзывы`
-
-[🎬 Demo](https://omurbek000.github.io/auto_project/presentation_menu.html) • [GitHub](https://github.com/Omurbek000/auto_project)
-
-</td>
-<td width="33%" valign="top">
-
-### 🍣 Онигири — Delivery
-Один ресторан, полный цикл за 3 клика: меню → избранное → адрес → `created → delivered`.
-
-**Стек:** `Django 5.1 / DRF / JWT blacklist / django-filter`
-
-22 endpoints • 26 tests • `Promo → Order → OrderItem`
-
-[🎨 UI mockup](https://github.com/Omurbek000/delivery/blob/main/ui-mockup-main.html) • [GitHub](https://github.com/Omurbek000/delivery)
-
-</td>
-</tr>
-</table>
-
-> Ещё 3 TOP в пине: [`IT-online` — онлайн-школа](https://github.com/Omurbek000/IT-online) • [`freelancehub-api` — фриланс-биржа](https://github.com/Omurbek000/freelancehub-api) • [`Etno_Practic` — онлайн-кинотеатр](https://github.com/Omurbek000/Etno_Practic) — все `MIT` + `topics`.
-
----
-
-## 🛠️ Stack
-
-<div align="center">
-
-**Backend:** ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/DRF-FF1709?style=flat-square&logo=django&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens&logoColor=white) ![django--filter](https://img.shields.io/badge/django--filter-092E20?style=flat-square)
-**AI:** ![Whisper](https://img.shields.io/badge/Whisper-7c3aed?style=flat-square) ![NLLB](https://img.shields.io/badge/NLLB-200-059669?style=flat-square) ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-**Frontend:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-**Infra:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-</div>
-
----
-
-## 🎯 Сейчас в фокусе
-
-<img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-
-* Этап 4 — `Service` как **AI Subtitle SaaS** (`Stripe` + React фронт из `auto_project` `useAuth`/`usePagination`)
-* Докер: `Postgres 16` + `Redis 7` + `MinIO` (`docker compose up -d`) — уже в `Service`, переношу в `delivery`/`auto_project`
-* Тесты как контракт: `Service 37/37` • `delivery 26` • `auto_project` 60+ endpoints
-
-<br clear="right"/>
-
----
-
-## 📊 Stats — 1 экран, без дашборда
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Omurbek000&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=0d0d0d&border_color=6a0dad" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omurbek000&layout=compact&langs_count=6&theme=midnight-purple&hide_border=true&title_color=FFD700&text_color=ffffff&bg_color=0d0d0d&border_color=6a0dad" />
-
-</div>
-
-<div align="center">
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Omurbek000&theme=midnight_purple)
+<img src="https://img.shields.io/badge/BACKEND-ONLINE-7C3AED?style=for-the-badge&labelColor=080808"/>
+<img src="https://img.shields.io/badge/AI-ONLINE-7C3AED?style=for-the-badge&labelColor=080808"/>
+<img src="https://img.shields.io/badge/DATABASE-ONLINE-7C3AED?style=for-the-badge&labelColor=080808"/>
+<img src="https://img.shields.io/badge/CELERY-ONLINE-7C3AED?style=for-the-badge&labelColor=080808"/>
 
 </div>
 
@@ -115,27 +19,434 @@ Production-ready API для автоперевода и озвучки. 88 → 1
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Omurbek000/Omurbek000/output/github-contribution-grid-snake.svg)
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                    AZIAT OMURBEK // DEV                     ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║   ROLE        Backend / AI Engineer                          ║
+║   PRIMARY     Python / Django / DRF                          ║
+║   DATABASE    PostgreSQL / Redis                              ║
+║   ASYNC       Celery                                         ║
+║   AI          Whisper / NLLB / TTS                           ║
+║   INFRA       Docker / Linux                                 ║
+║                                                              ║
+║   STATUS      ● BUILDING                                     ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+# `> whoami`
+
+I'm a **Backend / AI Engineer** focused on building real-world applications with Python.
+
+I enjoy working at the intersection of:
+
+```text
+        BACKEND
+           │
+           ▼
+       ┌───────┐
+       │  API  │
+       └───┬───┘
+           │
+     ┌─────┴─────┐
+     ▼           ▼
+ DATABASE       QUEUE
+     │           │
+     │           ▼
+     │         WORKER
+     │           │
+     └─────┬─────┘
+           ▼
+        AI / ML
+```
+
+My main focus is **Django, REST APIs, PostgreSQL, Redis, Celery and AI-powered systems**.
+
+---
+
+# `> core_stack`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,docker,linux,git,github" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=react,typescript,vite" />
+
+</div>
+
+<br>
+
+```text
+BACKEND       ████████████████████  Python / Django / DRF
+DATABASE      ██████████████████░░  PostgreSQL / Redis
+ASYNC         █████████████████░░░  Celery
+AI            ████████████████░░░░  Whisper / NLLB / TTS
+INFRA         ███████████████░░░░░  Docker / Linux
+FRONTEND      ████████████░░░░░░░░  React / TypeScript
+TESTING       █████████████░░░░░░░  Pytest / Django Tests
+```
+
+---
+
+# `> featured_projects`
+
+## `01 // AutoDub`
+
+<div align="center">
+
+### 🤖 AI VIDEO DUBBING PLATFORM
+
+`WHISPER` `NLLB` `TTS` `CELERY` `REDIS` `FFMPEG`
+
+</div>
+
+> An AI-powered system for automatic video translation and dubbing.
+
+### `pipeline`
+
+```text
+┌─────────┐
+│  VIDEO  │
+└────┬────┘
+     │
+     ▼
+┌──────────────┐
+│ AUDIO        │
+│ EXTRACTION   │
+└──────┬───────┘
+       │
+       ▼
+┌──────────────┐
+│   WHISPER    │
+│ Speech→Text  │
+└──────┬───────┘
+       │
+       ▼
+┌──────────────┐
+│     NLLB     │
+│ Translation   │
+└──────┬───────┘
+       │
+       ▼
+┌──────────────┐
+│     TTS      │
+│ Text→Speech  │
+└──────┬───────┘
+       │
+       ▼
+┌──────────────┐
+│    FFMPEG    │
+│ Media Engine │
+└──────┬───────┘
+       │
+       ▼
+┌──────────────┐
+│ DUBBED VIDEO │
+└──────────────┘
+```
+
+### `engineering`
+
+* asynchronous processing
+* Celery workers
+* Redis queues
+* AI model integration
+* speech recognition
+* machine translation
+* text-to-speech
+* FFmpeg media processing
+* REST API
+* automated testing
+
+<div align="center">
+
+<a href="https://github.com/Omurbek000">
+<img src="https://img.shields.io/badge/OPEN_REPOSITORY-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## 🌐 Connect
+## `02 // AVTO`
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-dseba436%40gmail.com-0d0d0d?style=for-the-badge&logo=gmail&logoColor=FFD700&labelColor=0d0d0d)](mailto:dseba436@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Omurbek000-0d0d0d?style=for-the-badge&logo=github&logoColor=FFD700)](https://github.com/Omurbek000)
+### 🚗 CAR RENTAL MARKETPLACE
+
+`DJANGO` `DRF` `POSTGRESQL` `REACT` `TYPESCRIPT`
+
+</div>
+
+```text
+                    ┌─────────────┐
+                    │   CLIENT    │
+                    │ React / TS  │
+                    └──────┬──────┘
+                           │
+                           ▼
+                    ┌─────────────┐
+                    │  REST API   │
+                    │    DRF      │
+                    └──────┬──────┘
+                           │
+                ┌──────────┴──────────┐
+                ▼                     ▼
+         ┌─────────────┐       ┌─────────────┐
+         │   BOOKING   │       │    CHAT     │
+         └──────┬──────┘       └─────────────┘
+                │
+                ▼
+         ┌─────────────┐
+         │ PostgreSQL  │
+         └─────────────┘
+```
+
+### `features`
+
+`🚘 Cars` · `🔎 Search` · `📅 Booking`
+
+`🛡️ Availability` · `💬 Chat` · `⭐ Reviews`
+
+`📊 KPI Dashboard` · `🔐 Authentication`
+
+<div align="center">
+
+<a href="https://github.com/Omurbek000">
+<img src="https://img.shields.io/badge/OPEN_REPOSITORY-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
+## `03 // Onigiri`
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd700,50:6a0dad,100:0d0d0d&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffd700&fontAlignY=65&animation=fadeIn" width="100%"/>
+### 🍣 FOOD DELIVERY API
 
-![Profile Views](https://komarev.com/ghpvc/?username=Omurbek000&color=6a0dad&style=for-the-badge&label=Profile+Views)
+`PYTHON` `DJANGO` `DRF` `JWT` `POSTGRESQL`
+
+</div>
+
+```text
+USER
+ │
+ ▼
+AUTH ───────► JWT
+ │
+ ▼
+MENU
+ │
+ ▼
+CART
+ │
+ ▼
+ORDER
+ │
+ ▼
+ORDER ITEMS
+ │
+ ▼
+DELIVERY
+```
+
+### `features`
+
+* JWT authentication
+* authorization
+* menu management
+* favorites
+* addresses
+* promotions
+* cart
+* orders
+* order status workflow
+* filtering
+* automated tests
+
+---
+
+# `> ai_lab`
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:090909,100:24124d&height=90&text=AI%20MODEL%20%E2%86%92%20WORKER%20%E2%86%92%20API&fontSize=25&fontColor=ffffff" width="90%"/>
+
+</div>
+
+<br>
+
+I’m particularly interested in turning AI models into **usable backend services**.
+
+```text
+             ┌───────────────┐
+             │   AI MODEL    │
+             └───────┬───────┘
+                     │
+                     ▼
+             ┌───────────────┐
+             │    WORKER     │
+             │    Celery     │
+             └───────┬───────┘
+                     │
+                     ▼
+             ┌───────────────┐
+             │    REDIS      │
+             │    QUEUE      │
+             └───────┬───────┘
+                     │
+                     ▼
+             ┌───────────────┐
+             │   DJANGO API  │
+             └───────┬───────┘
+                     │
+                     ▼
+             ┌───────────────┐
+             │    CLIENT     │
+             └───────────────┘
+```
+
+### `ai_toolbox`
+
+```text
+Speech Recognition     → Whisper
+Translation            → NLLB
+Text-to-Speech         → TTS
+Deep Learning          → PyTorch
+Media Processing       → FFmpeg
+Task Processing        → Celery
+Queue                  → Redis
+```
+
+---
+
+# `> engineering_principles`
+
+```text
+┌─────────────────────────────────────────────┐
+│                                             │
+│  01  CLEAN ARCHITECTURE                     │
+│      Keep business logic understandable.    │
+│                                             │
+│  02  ASYNC PROCESSING                       │
+│      Don't block HTTP with heavy jobs.      │
+│                                             │
+│  03  DATABASE FIRST                          │
+│      Design reliable data relationships.    │
+│                                             │
+│  04  API DESIGN                             │
+│      Predictable endpoints & validation.    │
+│                                             │
+│  05  TESTING                                │
+│      Code should be safe to change.         │
+│                                             │
+│  06  PRODUCTION MINDSET                     │
+│      Reliability > just making it work.    │
+│                                             │
+└─────────────────────────────────────────────┘
+```
+
+---
+
+# `> system_status`
+
+<div align="center">
+
+| SYSTEM          |  STATUS  |
+| :-------------- | :------: |
+| 🐍 Python       | `ONLINE` |
+| 🌐 Django / DRF | `ONLINE` |
+| 🗄️ PostgreSQL  | `ONLINE` |
+| ⚡ Redis         | `ONLINE` |
+| 🔄 Celery       | `ONLINE` |
+| 🐳 Docker       | `ONLINE` |
+| 🤖 AI Pipeline  | `ONLINE` |
+| 🎥 FFmpeg       | `ONLINE` |
+
+</div>
+
+---
+
+# `> github_stats`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Omurbek000&show_icons=true&hide_border=true&theme=tokyonight&bg_color=050505&title_color=A78BFA&icon_color=A78BFA&text_color=E5E7EB"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omurbek000&layout=compact&hide_border=true&theme=tokyonight&bg_color=050505&title_color=A78BFA&text_color=E5E7EB"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Omurbek000&theme=tokyonight&hide_border=true&background=050505&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="70%"/>
+
+</div>
+
+---
+
+# `> currently_learning`
+
+```text
+[████████████████████░░] System Design
+[███████████████████░░░] Advanced Django
+[██████████████████░░░░] PostgreSQL Optimization
+[█████████████████░░░░░] Distributed Systems
+[████████████████░░░░░░] Docker / Deployment
+[███████████████░░░░░░░] AI Application Architecture
+```
+
+---
+
+# `> mission`
+
+<div align="center">
+
+### BUILD → BREAK → LEARN → IMPROVE → REPEAT
+
+<br>
+
+**Building reliable backend systems
+with AI at the core.**
+
+</div>
+
+---
+
+# `> connect`
+
+<div align="center">
+
+<a href="mailto:dseba436@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Omurbek000">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+```text
+> system.shutdown()
+
+just kidding...
+
+> keep_building()
+```
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:16112b,75:302b63,100:050505&height=130&section=footer" width="100%"/>
 
 </div>
