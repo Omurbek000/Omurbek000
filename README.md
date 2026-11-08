@@ -1,122 +1,152 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:6a0dad,100:ffd700&height=200&section=header&text=Aziat%20Omurbek&fontSize=50&fontColor=ffd700&fontAlignY=38&desc=Backend%20Developer%20%7C%20Python%20%26%20Django&descAlignY=58&descColor=d4af37&animation=fadeIn" width="100%"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Building+scalable+backend+architectures;Python+%7C+Django+%7C+PostgreSQL+%7C+Docker;Turning+complex+problems+into+elegant+code;Welcome+to+my+digital+workspace+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-</div>
-
----
+## 🚀 About Me
+I'm a full stack developer...
 
 <div align="center">
-  <img align="right" alt="Backend Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-  
-  ## 👨‍💻 Обо мне
 
-  - 🚀 **Backend Developer** — проектирую и разрабатываю надежные серверные архитектуры и API.
-  - 🔭 Специализируюсь на экосистеме **Python, Django и PostgreSQL**.
-  - 🌱 Сейчас углубляюсь в: **Django REST Framework, Docker, Celery и оптимизацию запросов**.
-  - ⚡ **Моя философия:** Пишу чистый, масштабируемый и безопасный код, который решает реальные бизнес-задачи.
-  - 📍 **Кыргызстан** 🇰🇬 | Открыт к интересным коллаборациям
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:6a0dad,100:ffd700&height=200&section=header&text=Aziat%20Omurbek&fontSize=50&fontColor=ffd700&fontAlignY=38&desc=Python%20Developer%20%7C%20Student%20%F0%9F%8E%93&descAlignY=58&descColor=d4af37&animation=fadeIn" width="100%"/>
 
-  <br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Python+%26+Django+Developer;HTML+%7C+CSS+%7C+PostgreSQL;Student+from+Kyrgyzstan+%F0%9F%87%B0%F0%9F%87%AC;Building+cool+projects+every+day...;Every+expert+was+once+a+beginner+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-  ### 🎯 Текущий фокус развития:
-  <img src="https://progress-bar.dev/85/?title=DRF+%26+System+Design&width=300&color=6a0dad&suffix=%25&total=100" alt="DRF Progress"/>
-  <img src="https://progress-bar.dev/60/?title=Docker+%26+CI%2FCD&width=300&color=ffd700&suffix=%25&total=100" alt="Docker Progress"/>
-
-  <br clear="right"/>
 </div>
-
-> ### *"Code is like humor. When you have to explain it, it’s bad."* – Cory House 💡
 
 ---
 
-## 🏆 GitHub Достижения (WOW Stats)
+<img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
+## 👨‍💻 О себе
+
+- 🎓 **Студент** — изучаю веб-разработку с нуля
+- 🔭 Работаю над проектами на **Python и Django**
+- 🌱 Сейчас прокачиваю: **Django REST Framework**
+- 🏆 Уже **34 репозитория** — и это только начало!
+- 📍 **Кыргызстан** 🇰🇬
+
+
+<br/>
+
+> ### *"Every expert was once a beginner."* 🌟
+
+<br clear="right"/>
+
+---
+
+## 🛠Технологии
 
 <div align="center">
-  
-  <!-- МЕДАЛИ (Trophies) - Это главный ВАУ эффект -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Omurbek000&theme=onedark&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" alt="GitHub Trophies"/>
-  </a>
 
-  <br/><br/>
-
-  <!-- НЕОНОВЫЙ ГРАФИК АКТИВНОСТИ -->
-  <img src="https://github-profile-activity-graph.vercel.app/graph?username=Omurbek000&bg_color=0d0d0d&color=ffd700&line=6a0dad&point=ffd700&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
-
-  <br/><br/>
-
-  <!-- КОМПАКТНАЯ СТАТИСТИКА -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Omurbek000&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=0d0d0d&border_color=6a0dad"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omurbek000&layout=compact&langs_count=6&theme=midnight-purple&title_color=FFD700&text_color=ffffff&bg_color=0d0d0d&border_color=6a0dad"/>
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=FFD700)
+![Django](https://img.shields.io/badge/Django-0d0d0d?style=for-the-badge&logo=django&logoColor=FFD700)
+![HTML5](https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=FFD700)
+![CSS3](https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=FFD700)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=FFD700)
+![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=FFD700)
+![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=FFD700)
+![VS Code](https://img.shields.io/badge/VS%20Code-0d0d0d?style=for-the-badge&logo=visual-studio-code&logoColor=FFD700)
 
 </div>
 
 ---
 
-## 💎 Избранные проекты
+## 📊 GitHub Статистика
 
-<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; margin-top: 20px;">
+<div align="center">
 
-  <!-- ПРОЕКТ 1: 3D Glow Card -->
-  <div style="flex: 1; min-width: 300px; max-width: 500px; background: #0d0d0d; border: 1px solid #6a0dad; border-radius: 16px; padding: 24px; box-shadow: 0 10px 30px rgba(106, 13, 173, 0.4), inset 0 0 20px rgba(106, 13, 173, 0.1);">
-    <h3 style="color: #ffd700; margin-top: 0; font-size: 1.4em;">🏠 Airbnb Clone</h3>
-    <p style="color: #cccccc; font-size: 0.95em; line-height: 1.5;">Масштабируемый клон платформы для аренды жилья. Реализована система бронирований, управления профилями и ролевая модель.</p>
-    
-    <div style="margin: 15px 0;">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/>
-      <img src="https://img.shields.io/badge/DRF-FF1709?style=flat-square&logo=django&logoColor=white" alt="DRF"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-    </div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Omurbek000&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=0d0d0d&border_color=6a0dad"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omurbek000&layout=compact&langs_count=6&theme=midnight-purple&title_color=FFD700&text_color=ffffff&bg_color=0d0d0d&border_color=6a0dad"/>
 
-    <div style="margin-top: 20px;">
-      <a href="https://github.com/Omurbek000/Airbnb" target="_blank" style="text-decoration: none;">
-        <span style="display: inline-block; background: linear-gradient(90deg, #6a0dad, #ffd700); color: #0d0d0d; font-weight: bold; padding: 8px 16px; border-radius: 8px; font-size: 0.9em;">Смотреть код ➔</span>
-      </a>
-    </div>
-  </div>
+</div>
 
-  <!-- ПРОЕКТ 2: 3D Glow Card -->
-  <div style="flex: 1; min-width: 300px; max-width: 500px; background: #0d0d0d; border: 1px solid #6a0dad; border-radius: 16px; padding: 24px; box-shadow: 0 10px 30px rgba(106, 13, 173, 0.4), inset 0 0 20px rgba(106, 13, 173, 0.1);">
-    <h3 style="color: #ffd700; margin-top: 0; font-size: 1.4em;">💼 FreelanceHub API</h3>
-    <p style="color: #cccccc; font-size: 0.95em; line-height: 1.5;">Мощный Backend REST API для фриланс-биржи. Аутентификация JWT/OAuth, разграничение ролей и автогенерация Swagger-документации.</p>
-    
-    <div style="margin: 15px 0;">
-      <img src="https://img.shields.io/badge/Python_3.12-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/Django_5.x-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/>
-      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
-      <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger"/>
-    </div>
+<div align="center">
 
-    <div style="margin-top: 20px;">
-      <a href="https://github.com/Omurbek000/freelancehub-api" target="_blank" style="text-decoration: none;">
-        <span style="display: inline-block; background: linear-gradient(90deg, #6a0dad, #ffd700); color: #0d0d0d; font-weight: bold; padding: 8px 16px; border-radius: 8px; font-size: 0.9em;">Смотреть код ➔</span>
-      </a>
-    </div>
-  </div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Omurbek000&theme=midnight-purple&background=0d0d0d&border=6a0dad&stroke=6a0dad&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&dates=aaaaaa)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Omurbek000&theme=midnight_purple)
+
+</div>
+
+<div align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Omurbek000&theme=midnight_purple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Omurbek000&theme=midnight_purple)
+
+</div>
+
+<div align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Omurbek000&theme=midnight_purple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Omurbek000&theme=midnight_purple&utcOffset=6)
 
 </div>
 
 ---
+
+
+## 📌 Закреплённые проекты
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏠 Airbnb Clone
+> ⚠️ Учебный проект — создан в образовательных целях
+
+Клон платформы для аренды жилья с объявлениями, бронированиями и профилями пользователей.
+
+**Стек:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-FF1709?style=flat-square&logo=django&logoColor=white)
+
+**Функции:**
+- 🏡 Объявления жилья
+- 📅 Бронирование
+- 👤 Профили пользователей
+
+[![GitHub](https://img.shields.io/badge/Смотреть_на_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Omurbek000/Airbnb)
+
+</td>
+<td width="50%" valign="top">
+
+### 💼 FreelanceHub API
+> ⚠️ Учебный проект — создан в образовательных целях
+
+Backend REST API для фриланс-биржи. Клиенты создают проекты, фрилансеры подают предложения.
+
+**Стек:**
+
+![Python](https://img.shields.io/badge/Python_3.12-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django_5.2-092E20?style=flat-square&logo=django&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+
+**Функции:**
+- 🔐 JWT + OAuth (Google, GitHub)
+- 👥 Роли: Client / Freelancer / Admin
+- 🌍 Мультиязычная админка (RU/EN/KG)
+- 📄 Swagger документация
+
+[![GitHub](https://img.shields.io/badge/Смотреть_на_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Omurbek000/freelancehub-api)
+
+</td>
+</tr>
+</table>
+
+---
+
+
 
 ## 🌐 Связаться со мной
 
-<div align="center" style="margin-top: 30px;">
+<div align="center">
 
-  <a href="mailto:dseba436@gmail.com" target="_blank" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/Gmail-dseba436@gmail.com-0d0d0d?style=for-the-badge&logo=gmail&logoColor=FFD700&labelColor=0d0d0d" alt="Gmail"/>
-  </a>
-  
-  <a href="https://t.me/ТВОЙ_НИК" target="_blank" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/Telegram-@ТВОЙ_НИК-0d0d0d?style=for-the-badge&logo=telegram&logoColor=FFD700&labelColor=0d0d0d" alt="Telegram"/>
-  </a>
+[![Gmail](https://img.shields.io/badge/Gmail-dseba436%40gmail.com-0d0d0d?style=for-the-badge&logo=gmail&logoColor=FFD700&labelColor=0d0d0d)](mailto:dseba436@gmail.com)
 
-  <a href="https://linkedin.com/in/ТВОЙ_НИК" target="_blank" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/LinkedIn-Aziat_Omurbek-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=FFD700&labelColor=0d0d0d" alt="LinkedIn"/>
-  </a>
 
 </div>
 
