@@ -1,6 +1,5 @@
 
-## 🚀 About Me
-I'm a full stack developer...
+
 
 <div align="center">
 
